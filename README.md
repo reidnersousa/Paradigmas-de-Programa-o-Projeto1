@@ -1,8 +1,8 @@
 # Paradigmas-de-Programa-o-Projeto1
 
 ## Integrante do grupo
-Emerson
-Reidner
+Emerson,
+Reidner e
 Ruan
 
 ## Introdução :
