@@ -7,40 +7,38 @@ Ruan
 
 ## Introdução :
 
-Go(também chamado de Golang) foi criado por conta de frustração por conta da complexidade das soluções que o google tinha, que era escrita em C e outras linguagens.Esses sistemas tinha uma complexidade enorme por conta disso 3 cientista  da computação decidiram criar uma linguagem que fosse mais simples mas que resolvesse problemas complexos 
+Bubble é uma plataforma sem código que permite construir aplicações web. Com o Bubble, você pode criar lógica de aplicativo, criar design de interface, trabalhar com bancos de dados incorporados e integrar produtos prontos com serviços de terceiros.
+
+De acordo com os criadores da plataforma, Bubble é uma linguagem de programação declarativa baseada em JSON para construção de aplicações web. A ferramenta suporta JavaScript externo e componentes internos do servidor, permitindo que o usuário trabalhe com a lógica de negócios e a aparência dos aplicativos.
 
 ## Características
 
-Estilo c 
-Não possui classes (utilizar um struct)
-Não possui herança (utilizar composição)
-Não compila caso existe variáveis ou import não utilizados 
-Funções Multi-retorno
-Não possui ternários 
-Linguagem compilada estaticamente
+Uma instalação segura de hospedagem de banco de dados para seus usuários no AWS cloud
+Um designer de páginas WYSIWYG especializado e editor de estilo para projetar e editar páginas web.
+Um editor visual inovador workflow com o qual o usuário pode adicionar múltiplos eventos e ações nas aplicações web.
+Um recurso inteligente de dimensionamento de capacidade que aumenta automaticamente a capacidade das aplicações web à medida que a aplicação cresce gradualmente.
+
 
 
 ## Plataforma de desenvolvimento e execução 
 
-Visual Studio Code 
+https://bubble.io/
 
 ## Legibilidade 
 
 Go foi feito para ter código limpos e simple
 
-## Empresa que utilizam Go:
+## Empresa que utilizam Bubble.io:
+Marlow é uma Startup criada em Bubble, que oferece recursos e coaching para ajudar pessoas a progredirem melhor em rumo aos seus objetivos.
+Na prática, Marlow é um aplicativo que conecta usuários à coaches. Para começar, os usuários se cadastram, preenchem um questionário, e então são levados à um dashboard onde podem se conectar com um coach. A plataforma tem vários planos de assinatura.
 
-Netflix: a empresa de streaming usa Golang para processar e otimizar o carregamento de dados;
-Dinamize: Golang foi utilizada pela empresa para criar recursos de automação de marketing;
-Uber: a linguagem é utilizada em função de georreferência;
-Adobe: a empresa usa Golang para processar dados em tempo real.
+Send Pilot é uma startup que funciona como uma extensão do Buffer (um aplicativo de gestão de redes sociais para empresas e marcas), que analisa seus posts de blog e extrai “snippets” do conteúdo, coloca em templates pronto, adiciona hashtags específicas do seu mercado, um backlink, uma imagem e então agendar a campanha completa de divulgação por um período de 3 meses.Ou seja, é um aplicativo desenvolvido para distribuir conteúdo em redes sociais, e ajudar a trazer mais usuários para seu negócio, tudo criado com Bubble.
+
+Zeno é um sistema de gestão para advogados, e já recebeu investimentos da Bossa Nova, a maior investidora em startups da América Latina.
 
 ## É Indicado para : 
 
-resolver problemas em muito menos tempo.Como por exemplo otimizar o carregamento de dados.
+È indicado para : para criar uma página web  rápida se a necessidade de saber programar , é ideal para pessoas que desejam criar um site sem se preocupar com dinheiro
 
-## Mercado de trabalho
 
-De acordo com o Stack Overflow Developer Survey de 2021, o Go é usado por cerca de 9,55% dos desenvolvedores participantes da pesquisa, tornando-se a 14ª linguagem de programação mais popular.
-No entanto, o stakhare.io mostra o número de empresas que usam Go em 2.624. Isso inclui marcas conhecidas como Google, Uber, Slack, Pinterest, Shopify, Twitch e muito mais.
-O Golang deve se apresentar no curso por conta do fato que ela foi criada para resolver os problemas que  as linguagens de programação da época de 2012 não conseguiam resolver de forma simples .
+
